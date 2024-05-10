@@ -11,7 +11,7 @@ a button to add those todo's
 
 
 
-## Now After writing and clicking onto the +/Plus buttons adds the todo to the TODO List 
+## Now After writing and clicking onto the +(Plus) button adds the todo to the TODO List 
 
 -- Within the list of Todo there is a delete feature is also facilitated 
 
